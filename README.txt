@@ -1,4 +1,4 @@
-Thank you for the opportunity to interview at Point 72. 
+Thank you for the opportunity to interview. 
 
 In this folder you will find the code, writeup and presentation slide as requested by the case parameters. 
 
